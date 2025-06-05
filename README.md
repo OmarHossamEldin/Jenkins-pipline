@@ -4,7 +4,7 @@ This repository provides a simple and production-ready to build pipline for vps 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Jenkins LTS (Long-Term Support)
 - Persistent Jenkins data using Docker volumes
